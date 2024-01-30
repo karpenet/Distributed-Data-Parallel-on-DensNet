@@ -1,6 +1,6 @@
-# Distributed Data Parallel on DensNet
+# Distributed Data Parallel on DenseNet
 
-Distributed training using PyTorch on a DensNet Model.
+Distributed training using PyTorch on a DenseNet Model.
 
 ### Requirements
 
